@@ -36,6 +36,10 @@ machine learning for science · computational neuroscience · AI · consciousnes
 - Rebuilding two X-ray analysis pipelines into fully reproducible, version-controlled workflows
 - Exploring the overlap between scientific computing, AI, and neuroscience
 
+## 📌 Featured repositories
+- [**xray-astronomy-rebuild**](https://github.com/karthikab7/xray-astronomy-rebuild) — reproducible Cen A X-ray census & SMBH spin (`relxill`) pipelines *(private; code released after publication)*
+- [**Personal site / CV**](https://github.com/karthikab7/senjuuchiha.github.io) — background, publications, and patents ([live site](https://karthikab7.github.io/senjuuchiha.github.io/))
+
 ## 🔗 Links
 - ORCID: https://orcid.org/0000-0003-0095-9302
 - Google Scholar: <!-- add your Scholar profile URL -->
