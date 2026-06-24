@@ -36,9 +36,9 @@ machine learning for science · computational neuroscience · AI · consciousnes
 - Exploring the overlap between scientific computing, AI, and neuroscience
 
 ## 🔗 Links
-- ORCID: https://orcid.org/0000-0003-0095-9302  <!-- verify this iD -->
+- ORCID: https://orcid.org/0000-0003-0095-9302
 - Google Scholar: <!-- add your Scholar profile URL -->
-- LinkedIn: <!-- add your LinkedIn URL -->
+- LinkedIn: https://www.linkedin.com/in/kab2421/
 
 ## 📫 Contact
 - karthikedu77@gmail.com
