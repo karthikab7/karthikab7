@@ -32,6 +32,7 @@ machine learning for science · computational neuroscience · AI · consciousnes
 - Publications in X-ray / radio AGN (ApJ, A&A) — see ORCID / Scholar below
 
 ## 🌱 Currently building
+- [**xray-astronomy-rebuild**](https://github.com/karthikab7/xray-astronomy-rebuild) — reproducible Cen A X-ray census & SMBH spin (`relxill`) pipelines *(private; code released after publication)*
 - Rebuilding two X-ray analysis pipelines into fully reproducible, version-controlled workflows
 - Exploring the overlap between scientific computing, AI, and neuroscience
 
