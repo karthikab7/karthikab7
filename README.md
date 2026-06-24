@@ -7,6 +7,9 @@ I build reproducible analysis pipelines for multi-mission X-ray data (Chandra, X
 NuSTAR) and apply the same rigor — version control, provenance, automation — to data-science
 and machine-learning problems beyond astronomy.
 
+### 🌐 Portfolio website → **[karthikab7.github.io](https://karthikab7.github.io)**
+Two career paths — [Astrophysics](https://karthikab7.github.io/astro.html) · [Data & AI](https://karthikab7.github.io/data.html)
+
 ---
 
 ## 🔭 Current focus
@@ -41,6 +44,7 @@ machine learning for science · computational neuroscience · AI · consciousnes
 - [**Personal site / CV**](https://github.com/karthikab7/senjuuchiha.github.io) — background, publications, and patents ([live site](https://karthikab7.github.io/senjuuchiha.github.io/))
 
 ## 🔗 Links
+- 🌐 Website: https://karthikab7.github.io
 - ORCID: https://orcid.org/0000-0003-0095-9302
 - Google Scholar: <!-- add your Scholar profile URL -->
 - LinkedIn: https://www.linkedin.com/in/kab2421/
