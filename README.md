@@ -15,6 +15,7 @@ Two career paths — [Astrophysics](https://karthikab7.github.io/astro.html) · 
 ## 🔭 Current focus
 - Reproducible X-ray spectral analysis of active galactic nuclei (AGN) and radio galaxies
 - Black-hole spin measurement via relativistic reflection modeling (`relxill`)
+- **RAD@home Astronomy Collaboratory** (remote collaborator) — archival X-ray analysis of Collimated Synchrotron Thread (CST) radio galaxies, with the team of PI Prof. Ananda Hota
 - Bridging astrophysical data analysis with **machine learning**, **computational neuroscience**, and **AI**
 
 ## 🛠️ Technical skills
