@@ -8,9 +8,13 @@ NuSTAR) and apply the same rigor — version control, provenance, automation —
 and machine-learning problems beyond astronomy.
 
 ### 🌐 Portfolio website → **[karthikab7.github.io](https://karthikab7.github.io)**
-Two career paths — [Astrophysics](https://karthikab7.github.io/astro.html) · [Data & AI](https://karthikab7.github.io/data.html)
+X-ray astrophysics, research and publications · [Data & AI](https://karthikab7.github.io/data.html)
 
 ---
+
+## 📄 Recent preprints
+- **X-ray point sources towards the giant radio lobes of Centaurus A** — K. Balasubramaniam, H.-K. Chang, Ł. Stawarz, V. Marchenko; submitted to A&A · [arXiv:2610.22168](https://arxiv.org/abs/2610.22168)
+- **What can a uniform reflection pipeline establish about supermassive black hole spin?** An audit and a corrected analysis of 57 AGN with XMM and NuSTAR — K. Balasubramaniam, H.-K. Chang, Ł. Stawarz; submitted to arXiv (October 2026)
 
 ## 🔭 Current focus
 - Reproducible X-ray spectral analysis of active galactic nuclei (AGN) and radio galaxies
@@ -31,7 +35,7 @@ machine learning for science · computational neuroscience · AI · consciousnes
 
 ## 📂 Selected project areas
 - **X-ray point-source census** of nearby galaxies (Chandra ACIS-I) — detection, photometry, X-ray luminosity functions
-- **SMBH spin measurement** via relativistic reflection (NuSTAR + XMM, relxill, MCMC)
+- **SMBH spin from relativistic reflection** (NuSTAR + XMM, relxill) — audit and corrected analysis of 57 AGN
 - **Reproducible-pipeline tooling** — scripted, provenance-tracked astronomical data reduction
 - Publications in X-ray / radio AGN (ApJ, A&A) — see ORCID / Scholar below
 
@@ -47,7 +51,7 @@ machine learning for science · computational neuroscience · AI · consciousnes
 ## 🔗 Links
 - 🌐 Website: https://karthikab7.github.io
 - ORCID: https://orcid.org/0000-0003-0095-9302
-- Google Scholar: <!-- add your Scholar profile URL -->
+- Google Scholar: https://scholar.google.com/citations?user=x5C5nXUAAAAJ
 - LinkedIn: https://www.linkedin.com/in/kab2421/
 
 ## 📫 Contact
